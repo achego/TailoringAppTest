@@ -1,0 +1,30 @@
+dads shop design information
+
+primary color : 76, 4, 109, 100%
+darkTextColor : 106, 98, 98, 100%
+ligthtTextColor : 251, 251, 251, 100
+
+defaultPadding: 15
+
+font: poppings
+
+** splash
+
+22 bold
+22 regular
+space: 6
+
+** Home
+
+fabcolor: 232, 4 141, 100%
+allPadding: 15
+
+Chief Anthony = 22
+Collection date : 18
+5000: 22
+
+** summary 
+padding h - 15	v-20
+
+8 : 25
+5000: 27
